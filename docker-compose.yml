@@ -14,4 +14,4 @@ services:
     - db:/var/lib/mysql
 
 volumes:
-  microservices_zed:
+ db:
